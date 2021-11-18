@@ -1,5 +1,8 @@
 # cci-ocean-colour
-ESA CCI ocean colour data extraction and plotting using examples within. 
+
+TThe Ocean Colour Climate Change Initiative (CCI) is a European Space Agency (ESA) funded project that focuses on the Ocean Colour Essential Climate Variables (ECV). This multi-sensor time-series product includes water-leaving radiance in the visible domain, derived chlorophyll and inherent optical properties and utilises data archives from Copernicus, ESA, NASA and NOAA.
+
+This repository showcases some ESA CCI ocean colour data extraction and plotting using examples using Jupyter Notebooks. These examples were developed using information from the [Product User Guide](https://docs.pml.space/share/s/dPL4zFuaT_eFa-mTLU9nQA), with the support of Tom Jackson (PML).
 
 ## Anaconda environment installation
 * Install in steps
